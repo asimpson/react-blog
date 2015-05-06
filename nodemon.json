@@ -1,0 +1,16 @@
+{
+  "ignore": [
+    ".git",
+    "node_modules/**/node_modules",
+    "Gruntfile"
+  ],
+  "verbose": true,
+  "ext": "js jsx",
+  "execMap": {
+    "jsx": "node ./bin/www"
+  },
+  "watch": [
+    "components/",
+    "app.js"
+  ]
+}

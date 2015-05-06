@@ -1,0 +1,30 @@
+.animating {
+  .first-row, .second-row, .third-row, .fourth-row {
+    fill: lighten($cyan, 10%);
+  }
+}
+
+.first-row, .second-row, .third-row, .fourth-row {
+  -webkit-transition: fill 50ms ease-in-out;
+  transition: fill 50ms ease-in-out;
+}
+
+.first-row {
+  -webkit-transition-delay: 0ms;
+  transition-delay: 0;
+}
+
+.second-row {
+  -webkit-transition-delay: 50ms;
+  transition-delay: 50ms;
+}
+
+.third-row {
+  -webkit-transition-delay: 100ms;
+  transition-delay: 100ms;
+}
+
+.fourth-row {
+  -webkit-transition-delay: 150ms;
+  transition-delay: 150ms;
+}

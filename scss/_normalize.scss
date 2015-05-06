@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'proxima-nova', sans-serif;
+  margin: 0;
+
+  ::selection {
+    color: white;
+    background-color: $green;
+  }
+}
+
+img {
+  max-width: 100%;
+  margin: 0.5em 0;
+}
+
+article a {
+  @extend %link-treatment;
+}
+
+li {
+  margin: 1em 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  line-height: 1.2;
+}
+
+.hide {
+  display:none;
+  visibility:hidden;
+}

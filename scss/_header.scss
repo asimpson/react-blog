@@ -1,0 +1,48 @@
+.logo {
+  width: 88px;
+  cursor: pointer;
+}
+
+.header {
+  padding: 0;
+  position: relative;
+  z-index: 10;
+
+  .menu-open & {
+    background-color: $blue;
+    position: fixed;
+    width: 100%;
+  }
+}
+
+.secondary-logos {
+  position: absolute;
+  top: 2.8em;
+  right: 1em;
+  display: none;
+
+  .menu-open & {
+    display: block;
+  }
+
+  img {
+    height: 25px;
+  }
+
+  a {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .twitter-link {
+    margin-right: 1em;
+  }
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+.logo-wrapper {
+  padding-top: 1em;
+}

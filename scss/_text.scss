@@ -1,0 +1,24 @@
+.tx-center {
+  text-align: center;
+}
+
+.tx-no-underline {
+  text-decoration: none;
+}
+
+.tx-bold {
+  font-weight: bold;
+}
+
+.tx-normal {
+  font-weight: normal;
+}
+
+.tx-title {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  color: $blue;
+  font-weight: normal;
+  font-size: 1.5rem;
+  line-height: 1.2;
+}

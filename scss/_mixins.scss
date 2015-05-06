@@ -1,0 +1,16 @@
+@mixin clearfix {
+  &::after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+}
+
+%link-treatment {
+  $link-color: #2182cb;
+  color: $link-color;
+
+  &:visited {
+    color: $link-color;
+  }
+}

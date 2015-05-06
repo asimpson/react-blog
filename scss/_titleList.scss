@@ -1,0 +1,22 @@
+.title-wrapper {
+  padding: 0;
+  list-style: none;
+
+  .post-title:first-child {
+    margin-top: 0;
+  }
+
+  .menu-open & {
+    margin-top: 0;
+  }
+}
+
+.post-title {
+  margin: 3em auto;
+
+  > a {
+    position: relative;
+    padding-right: 1em;
+  }
+}
+

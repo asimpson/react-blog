@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="88px" height="87px" viewBox="0 0 88 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Mobile-Portrait" sketch:type="MSArtboardGroup" transform="translate(-16.000000, -18.000000)">
+            <g id="logo" sketch:type="MSLayerGroup" transform="translate(16.000000, 18.000000)">
+                <path d="M43.6010132,86.8062708 C67.675002,86.8062708 87.190826,67.4424119 87.190826,43.555881 C87.190826,19.6693504 67.675002,0.305491297 43.6010132,0.305491297 C19.5270245,0.305491297 0.0112005436,19.6693504 0.0112005436,43.555881 C0.0112005436,67.4424119 19.5270245,86.8062708 43.6010132,86.8062708 L43.6010132,86.8062708 Z" id="Oval-15" fill="#21256F" sketch:type="MSShapeGroup"></path>
+                <path d="M43.6010132,15.835551 L66.7131233,51.3614927 L20.4889033,51.3614927 L43.6010132,15.835551 Z" id="Triangle-3-Copy-16" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M43.6010132,31.3865406 L47.7727348,37.8718192 L39.4292919,37.8718192 L43.6010132,31.3865406 Z" id="Triangle-3-Copy-17" fill="#21256F" sketch:type="MSShapeGroup"></path>
+                <path d="M52.5358873,51.5615262 L34.6753099,51.5615262 L38.1358687,46.408236 L48.9228516,46.408236 L52.5358873,51.5615262 L52.5358873,51.5615262 Z" id="Rectangle-1" fill="#21256F" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-4" fill="#FFFFFF" sketch:type="MSShapeGroup" x="19.96953" y="53.8624616" width="47.2629665" height="3.60730321"></rect>
+                <rect id="Rectangle-4-Copy" fill="#FFFFFF" sketch:type="MSShapeGroup" x="24.1219193" y="59.0157521" width="38.9581881" height="2.97344849"></rect>
+                <rect id="Rectangle-4-Copy-2" fill="#FFFFFF" sketch:type="MSShapeGroup" x="28.0042347" y="63.6537133" width="31.1935572" height="2.38082006"></rect>
+                <rect id="Rectangle-4-Copy-3" fill="#FFFFFF" sketch:type="MSShapeGroup" x="31.9203085" y="67.7763456" width="23.3614095" height="1.78303846"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

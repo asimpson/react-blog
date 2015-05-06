@@ -1,0 +1,15 @@
+.post-date {
+  color: $gray;
+  margin: 0.5em 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+
+  a {
+    color: $gray;
+
+    &:visited {
+      color: $gray;
+    }
+  }
+}

@@ -1,0 +1,128 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+  <title>adamsimpson.net Post Feed</title>
+  <link>http://adamsimpson.net/</link>
+  <atom:link href="http://adamsimpson.net/rss.xml" rel="self" type="application/rss+xml" />
+  <description>The last 20 posts from adamsimpson.net</description>
+  <lastBuildDate>Fri, 03 Apr 2015 15:21:33 +0000</lastBuildDate>
+  <language>en-us</language>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/additional-post</link>
+    <guid>http://adamsimpson.net/writing/additional-post</guid>
+    <pubDate>Fri, 03 Apr 2015 15:18:32 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/iphone-checker-with-capybara-and-twilio</link>
+    <guid>http://adamsimpson.net/writing/iphone-checker-with-capybara-and-twilio</guid>
+    <pubDate>Thu, 30 Oct 2014 03:01:05 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/tmux-harvest-plugin</link>
+    <guid>http://adamsimpson.net/writing/tmux-harvest-plugin</guid>
+    <pubDate>Mon, 13 Oct 2014 03:01:27 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/vim-ramblings</link>
+    <guid>http://adamsimpson.net/writing/vim-ramblings</guid>
+    <pubDate>Fri, 27 Jun 2014 03:01:29 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/s3-security-policy</link>
+    <guid>http://adamsimpson.net/writing/s3-security-policy</guid>
+    <pubDate>Sat, 26 Apr 2014 03:01:17 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/keeping-up</link>
+    <guid>http://adamsimpson.net/writing/keeping-up</guid>
+    <pubDate>Tue, 08 Apr 2014 03:01:07 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/broadcast-channel</link>
+    <guid>http://adamsimpson.net/writing/broadcast-channel</guid>
+    <pubDate>Tue, 08 Apr 2014 03:00:52 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/moved-to-siteleaf</link>
+    <guid>http://adamsimpson.net/writing/moved-to-siteleaf</guid>
+    <pubDate>Mon, 31 Mar 2014 03:01:10 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/git-commit-template</link>
+    <guid>http://adamsimpson.net/writing/git-commit-template</guid>
+    <pubDate>Thu, 22 Aug 2013 03:00:58 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/adn-cross-poster</link>
+    <guid>http://adamsimpson.net/writing/adn-cross-poster</guid>
+    <pubDate>Thu, 15 Aug 2013 03:00:47 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/ifttt</link>
+    <guid>http://adamsimpson.net/writing/ifttt</guid>
+    <pubDate>Sun, 21 Jul 2013 03:01:03 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/js2coffee-alfred-workflow</link>
+    <guid>http://adamsimpson.net/writing/js2coffee-alfred-workflow</guid>
+    <pubDate>Mon, 08 Jul 2013 03:01:06 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/huffduffer</link>
+    <guid>http://adamsimpson.net/writing/huffduffer</guid>
+    <pubDate>Sat, 06 Jul 2013 03:01:02 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/slanted-elements-with-css3</link>
+    <guid>http://adamsimpson.net/writing/slanted-elements-with-css3</guid>
+    <pubDate>Sun, 21 Apr 2013 03:01:19 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/a-fluid-userscript-that-adds-read-it-later-to-twitter</link>
+    <guid>http://adamsimpson.net/writing/a-fluid-userscript-that-adds-read-it-later-to-twitter</guid>
+    <pubDate>Sun, 24 Mar 2013 03:00:43 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/rename-utility</link>
+    <guid>http://adamsimpson.net/writing/rename-utility</guid>
+    <pubDate>Wed, 13 Feb 2013 03:01:15 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/what-matters</link>
+    <guid>http://adamsimpson.net/writing/what-matters</guid>
+    <pubDate>Thu, 10 Jan 2013 03:01:30 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/andy-budd-on-time</link>
+    <guid>http://adamsimpson.net/writing/andy-budd-on-time</guid>
+    <pubDate>Thu, 10 Jan 2013 03:00:48 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/ip-address-alfred-extension</link>
+    <guid>http://adamsimpson.net/writing/ip-address-alfred-extension</guid>
+    <pubDate>Fri, 07 Dec 2012 03:01:04 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item>    <item>
+    <title>Title of an item</title>
+    <link>http://adamsimpson.net/writing/bash-function-ip-address-to-clipboard</link>
+    <guid>http://adamsimpson.net/writing/bash-function-ip-address-to-clipboard</guid>
+    <pubDate>Wed, 05 Dec 2012 03:00:51 +0000</pubDate>
+    <description>[CDATA[  ]]</description>
+    </item></channel></rss>

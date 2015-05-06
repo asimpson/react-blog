@@ -1,0 +1,8 @@
+.pagination-wrapper {
+  @include clearfix;
+  font-family: 'proxima-nova';
+
+  a {
+    @extend %link-treatment;
+  }
+}
