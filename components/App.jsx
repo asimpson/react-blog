@@ -16,7 +16,7 @@ App = React.createClass({
         t.type  = 'text/javascript';
         t.async = true;
         t.id    = 'gauges-tracker';
-        t.setAttribute('data-site-id', '5542e2715dd05315e3003039');
+        t.setAttribute('data-site-id', 'GAUGES TOKEN HERE');
         t.setAttribute('data-track-path', 'http://track.gaug.es/track.gif');
         t.src = 'https://track.gaug.es/track.js';
         var s = document.getElementsByTagName('script')[0];
